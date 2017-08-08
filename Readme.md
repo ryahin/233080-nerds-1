@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Илья Р.](https://up.htmlacademy.ru/htmlcss/18/user/233080).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Р.](https://up.htmlacademy.ru/htmlcss/18/user/233080).
 
 ---
 
